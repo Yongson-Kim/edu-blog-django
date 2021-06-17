@@ -21,9 +21,9 @@ package 복원 (가상환경에서 실행)
 데이터베이스 초기화 (django project 폴더에서)
 
 ```bash
-(venv) $ cd pragmatic
-(venv) pragmatic $ python3 manage.py makemigrations
-(venv) pragmatic $ python3 manage.py migrate
+(venv) $ cd project_name
+(venv) project_name $ python3 manage.py makemigrations
+(venv) project_name $ python3 manage.py migrate
 ```
 
 ## 새로운 모듈을 설치한 경우
