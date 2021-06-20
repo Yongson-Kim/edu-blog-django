@@ -131,3 +131,4 @@ dmypy.json
 # 프로젝트 추가 사항
 .vscode/
 .idea/
+migrations/
